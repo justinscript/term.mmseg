@@ -21,7 +21,7 @@ import org.junit.Ignore;
 import org.junit.Test;
 
 /**
- * @author zxc Sep 3, 2014 2:42:25 PM
+ * @author justinscript Sep 3, 2014 2:42:25 PM
  */
 public class AnalyzerTest {
 
